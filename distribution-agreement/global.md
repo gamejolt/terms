@@ -124,7 +124,7 @@ Confidential information can include (but isn't limited to) any of the following
 
 ##### 9. Termination
 
-9.1. You may terminate your Account at any time by contacting us at contact@gamejolt.com. However, if a Product on your Account has been sold to a User or downloaded, that Product may not be removed from the Marketplace.
+9.1. You may terminate your Account at any time by contacting us at contact@gamejolt.com. However, if a Product on your Account has been sold to a User, that Product may not be removed from the Marketplace.
 
 9.2. We may terminate your Account and cease the sale of any Products on your Account at any time, and for any reason, at our sole discretion.
 
