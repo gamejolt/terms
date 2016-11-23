@@ -42,7 +42,7 @@ First, we need to define some of the important terms in this agreement.
 
 2.3. **License for you to use the Marketplace.** When you sign up for an Account, we grant you a non-exclusive and non-transferable license to use the Marketplace for the purposes of offering Products for purchase or download, including displaying the Game Jolt sales widget on any website. We also grant you a license to use the Game Jolt logo in connection with the advertising, promotion, and sale of your Products, on your website, social media, or wherever you're using the sales widget. However, these licenses are conditioned on you following any Marketplace guidelines published by us and made available to you on the Game Jolt website.
 
-2.4. **Ownership – who owns what?**
+2.4. **Ownership - who owns what?**
 
 2.4.1. **Your Products.** You own the rights to your Products, subject to the licenses you granted to us above.
 
@@ -80,7 +80,7 @@ If you choose to offer your Product for download with advertisements (4.3), you 
 
 All payments will be in US Dollars, unless otherwise agreed upon in writing by you and Game Jolt.
 
-5.2. **Stripe.** Game Jolt uses Stripe Connect to process payments, for fraud prevention, and other services related to the Marketplace. By using the Marketplace, you agree to Stripe's [Stripe Connect Account Agreement]( https://stripe.com/us/connect-account/legal), which is incorporated into this agreement by reference, including their collection and use of Personal Information, as detailed in both [Game Jolt's]( http://gamejolt.com/privacy) and [Stripe's]( https://stripe.com/us/privacy) Privacy Policies.
+5.2. **Stripe.** Game Jolt uses Stripe Connect to process payments, for fraud prevention, and other services related to the Marketplace. By using the Marketplace, you agree to Stripe's [Stripe Connect Account Agreement](https://stripe.com/us/connect-account/legal), which is incorporated into this agreement by reference, including their collection and use of Personal Information, as detailed in both [Game Jolt's](http://gamejolt.com/privacy) and [Stripe's](https://stripe.com/us/privacy) Privacy Policies.
 
 5.3. **Refunds.** Users may request a refund within 3 days of their purchase of a Product. As a general policy, Game Jolt will only grant refunds to Users if the Product does not actually start or fails to work because the Product is broken or non-functional, but we reserve the right to grant refunds for any reason. For more information, see our [Terms of Service](http://gamejolt.com/terms).
 
@@ -88,7 +88,7 @@ All payments will be in US Dollars, unless otherwise agreed upon in writing by y
 
 5.5. **Connected Withdrawal Methods.** You may set up a Connected Withdrawal Method in your Account dashboard. However, Game Jolt **does not** have a way to redirect incorrectly-transferred funds once they have left your Wallet. Game Jolt is **not responsible** for any errors on your part in entering information about your Connected Withdrawal Method or otherwise that results in the loss of Wallet funds.
 
-5.6. **Purchases using Wallet Funds.** If you use funds from your Wallet to purchase Products that are not your own, none of the purchase price goes to Game Jolt – the entirety of the purchase price goes to the seller of that Product.
+5.6. **Purchases using Wallet Funds.** If you use funds from your Wallet to purchase Products that are not your own, none of the purchase price goes to Game Jolt - the entirety of the purchase price goes to the seller of that Product.
 
 5.7. **Negative Amounts.** If any payment calculation results in a negative amount, that negative amount will be carried forward and deducted from any future amounts otherwise payable by Game Jolt to you under this agreement or any other agreement between us.
 
@@ -102,7 +102,7 @@ You can set up your Connected Withdrawal Method, along with these maximums and m
 
 ##### 6. Product Ad Revenue
 
-6.1. **Advertisements.** If you choose to monetize your Products using advertisements, Game Jolt will place advertisements using Google AdSense and/or other ad networks (at Game Jolt's sole discretion) on your Product page. You agree to abide by Google's policies, including their [policy on adult content, or the comparable policies of the applicable ad network](https://support.google.com/adsense/answer/4410771?hl=en-GB). If your Product is in violation of any laws, including intellectual property laws, or in violation of our [Terms of Service]( (http://gamejolt.com/terms) in **any** way, we may disallow ads on your Product page, withhold Ad Revenue, and/or terminate your Account and this agreement. Just to be clear, Game Jolt has **sole discretion** over whether or not ads can run on your Product pages.
+6.1. **Advertisements.** If you choose to monetize your Products using advertisements, Game Jolt will place advertisements using Google AdSense and/or other ad networks (at Game Jolt's sole discretion) on your Product page. You agree to abide by Google's policies, including their [policy on adult content, or the comparable policies of the applicable ad network](https://support.google.com/adsense/answer/4410771?hl=en-GB). If your Product is in violation of any laws, including intellectual property laws, or in violation of our [Terms of Service](http://gamejolt.com/terms) in **any** way, we may disallow ads on your Product page, withhold Ad Revenue, and/or terminate your Account and this agreement. Just to be clear, Game Jolt has **sole discretion** over whether or not ads can run on your Product pages.
 
 ##### 7. Game Jolt Partner Program
 
