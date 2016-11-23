@@ -4,17 +4,17 @@ This is a binding agreement between Lucent Web Creative LLC, a Pennsylvania limi
 
 Please read this whole agreement, as it contains the terms of your relationship with Game Jolt and your use of the Game Jolt Marketplace.
 
-By agreeing to this, you're also agreeing to our [Terms of Service](http://gamejolt.com/terms) and [Privacy Policy](http://gamejolt.com/privacy), which are incorporated into this agreement. 
+By agreeing to this, you're also agreeing to our [Terms of Service](http://gamejolt.com/terms) and [Privacy Policy](http://gamejolt.com/privacy), which are incorporated into this agreement.
 
 If you check the box at the bottom and click the button marked "I Agree," you are making a legally-binding promise that you've read the agreement and that you'll be bound by these terms. If you don't agree, please don't use the Game Jolt Marketplace and don't click the button.
 
 ##### 1. Definitions
 
-First, we need to define some of the important terms in this agreement. 
+First, we need to define some of the important terms in this agreement.
 
 "**Account**" means your account on the Game Jolt Marketplace, through which you can offer Products for sale, post upgrades, add-ons, and other goods, access your payment information, cash out any payments received, and other Game Jolt or Marketplace-related things.
 
-"**Ad Revenue**" means a percentage of any money received by Game Jolt from advertisements displayed on your Product pages on the Marketplace. This percentage will be displayed in your Account Dashboard. You agree and acknowledge that this percentage may change from time to time, at Game Jolt's sole discretion. 
+"**Ad Revenue**" means a percentage of any money received by Game Jolt from advertisements displayed on your Product pages on the Marketplace. This percentage will be displayed in your Account Dashboard. You agree and acknowledge that this percentage may change from time to time, at Game Jolt's sole discretion.
 
 "**Marketplace**" means (1) the Marketplace section of the Game Jolt website (located at [gamejolt.com](http://gamejolt.com/)), the Game Jolt client (downloadable at [gamejolt.com/client](http://gamejolt.com/client)), and any other domains, subdomains or subsections of the Game Jolt website; (2) the Game Jolt sales widget that can be inserted into your website or any other website through an API that we develop and license to you; (3) any other mobile application, API, or SDK we develop and license to you that allows Users to purchase Products from Game Jolt, including in-game purchases; and (4) any other Game Jolt-branded, licensed or affiliated marketplace, platform, or service, whether existing now or in the future.
 
@@ -22,7 +22,7 @@ First, we need to define some of the important terms in this agreement.
 
 "**Products**" are goods sold through the Marketplace, including but not limited to games, music, and artwork, plus any upgrades or add-ons to those goods.
 
-"**Product Revenue**" means any money received by Game Jolt from sales of your Products on the Marketplace, **minus** the percentage of the purchase price paid to Game Jolt (as defined below), and the actual costs of returns, discounts, chargebacks, third-party payment processing fees, wire transfers, referral fees, and any taxes that apply to the sale and are paid by Game Jolt. 
+"**Product Revenue**" means any money received by Game Jolt from sales of your Products on the Marketplace, **minus** the percentage of the purchase price paid to Game Jolt (as defined below), and the actual costs of returns, discounts, chargebacks, third-party payment processing fees, wire transfers, referral fees, and any taxes that apply to the sale and are paid by Game Jolt.
 
 "**Revenue**" means any Ad Revenue and/or Product Revenue combined.
 
@@ -44,13 +44,13 @@ First, we need to define some of the important terms in this agreement.
 
 2.4. **Ownership – who owns what?**
 
-2.4.1. **Your Products.** You own the rights to your Products, subject to the licenses you granted to us above. 
+2.4.1. **Your Products.** You own the rights to your Products, subject to the licenses you granted to us above.
 
 2.4.2. **Your sales data.** You own any sales data related to your Products, but you grant us a license to use that sales data to calculate payments, fulfill User purchases, improve the Marketplace, and any other reasonable use in a masked aggregate basis. If your Account is terminated, we'll try to keep your sales data around long enough for you to download it, but we don't promise that we'll keep it available for more than 10 days. However, if your Account or your use of the Marketplace is in violation of this agreement or our Terms of Service, we do not guarantee that we can make any sales data available to you at all.
 
-2.4.3. **The Marketplace.** We own all rights to the Marketplace, subject to the licenses that we granted to you above and any open source licenses that we release portions of the Marketplace under. 
+2.4.3. **The Marketplace.** We own all rights to the Marketplace, subject to the licenses that we granted to you above and any open source licenses that we release portions of the Marketplace under.
 
-2.4.4. **Game Jolt content.** We own the rights to any Game Jolt content, logos, trademarks, copyrights, and other intellectual property. 
+2.4.4. **Game Jolt content.** We own the rights to any Game Jolt content, logos, trademarks, copyrights, and other intellectual property.
 
 2.4.5. **Suggestions and Feedback.** From time to time, you may provide suggestions, feedback, or make requests of Game Jolt related to the Marketplace or any other aspect of Game Jolt. You hereby assign to Game Jolt all rights to any request, suggestion or feedback regarding the functionality, performance, and potential errors or improvements to the Marketplace, and Game Jolt will have the right to use, implement and modify any such request, suggestion or feedback without any payment or restriction.
 
@@ -64,9 +64,9 @@ First, we need to define some of the important terms in this agreement.
 
 The Marketplace offers you three options for monetizing your Product. You can set or change these in your Account dashboard.
 
-4.1. **Fixed Price.** You choose a fixed price that Users pay for your Product. 
+4.1. **Fixed Price.** You choose a fixed price that Users pay for your Product.
 
-4.2. **Name-Your-Price.** Users can choose a price, or pay nothing at all for your Product. 
+4.2. **Name-Your-Price.** Users can choose a price, or pay nothing at all for your Product.
 
 4.3. **Free with Advertisements.** You offer your Product for Users to download for free, but the Product is monetized by advertisements displayed on your Product page. There is more information about Ads below in the section titled "Product Ad Revenue." You may choose to disable advertisement monetization of free Products on your Account Dashboard.
 
@@ -80,23 +80,23 @@ If you choose to offer your Product for download with advertisements (4.3), you 
 
 All payments will be in US Dollars, unless otherwise agreed upon in writing by you and Game Jolt.
 
-5.2. **Stripe.** Game Jolt uses Stripe Connect to process payments, for fraud prevention, and other services related to the Marketplace. By using the Marketplace, you agree to Stripe's [Stripe Connect Account Agreement]( https://stripe.com/us/connect-account/legal), which is incorporated into this agreement by reference, including their collection and use of Personal Information, as detailed in both [Game Jolt's]( http://gamejolt.com/privacy) and [Stripe's]( https://stripe.com/us/privacy) Privacy Policies. 
+5.2. **Stripe.** Game Jolt uses Stripe Connect to process payments, for fraud prevention, and other services related to the Marketplace. By using the Marketplace, you agree to Stripe's [Stripe Connect Account Agreement]( https://stripe.com/us/connect-account/legal), which is incorporated into this agreement by reference, including their collection and use of Personal Information, as detailed in both [Game Jolt's]( http://gamejolt.com/privacy) and [Stripe's]( https://stripe.com/us/privacy) Privacy Policies.
 
 5.3. **Refunds.** Users may request a refund within 3 days of their purchase of a Product. As a general policy, Game Jolt will only grant refunds to Users if the Product does not actually start or fails to work because the Product is broken or non-functional, but we reserve the right to grant refunds for any reason. For more information, see our [Terms of Service](http://gamejolt.com/terms).
 
-5.4. **Your Wallet.** Your Revenue is kept in your Game Jolt Wallet. Funds in your Wallet will be made available approximately 7 days after each order is placed by a User and processed, to allow for any refunds, chargebacks, or fraudulent payments. You can either withdraw this money from your Wallet directly to your bank account, PayPal account, or other method of withdrawal offered as an option by Game Jolt that you connect with your Account (the "Connected Withdrawal Method"), or use it to purchase Products on the Marketplace. 
+5.4. **Your Wallet.** Your Revenue is kept in your Game Jolt Wallet. Funds in your Wallet will be made available approximately 7 days after each order is placed by a User and processed, to allow for any refunds, chargebacks, or fraudulent payments. You can either withdraw this money from your Wallet directly to your bank account, PayPal account, or other method of withdrawal offered as an option by Game Jolt that you connect with your Account (the "Connected Withdrawal Method"), or use it to purchase Products on the Marketplace.
 
-5.5. **Connected Withdrawal Methods.** You may set up a Connected Withdrawal Method in your Account dashboard. However, Game Jolt **does not** have a way to redirect incorrectly-transferred funds once they have left your Wallet. Game Jolt is **not responsible** for any errors on your part in entering information about your Connected Withdrawal Method or otherwise that results in the loss of Wallet funds. 
+5.5. **Connected Withdrawal Methods.** You may set up a Connected Withdrawal Method in your Account dashboard. However, Game Jolt **does not** have a way to redirect incorrectly-transferred funds once they have left your Wallet. Game Jolt is **not responsible** for any errors on your part in entering information about your Connected Withdrawal Method or otherwise that results in the loss of Wallet funds.
 
 5.6. **Purchases using Wallet Funds.** If you use funds from your Wallet to purchase Products that are not your own, none of the purchase price goes to Game Jolt – the entirety of the purchase price goes to the seller of that Product.
 
 5.7. **Negative Amounts.** If any payment calculation results in a negative amount, that negative amount will be carried forward and deducted from any future amounts otherwise payable by Game Jolt to you under this agreement or any other agreement between us.
 
-5.8. **Funds Withdrawal.** You can request to withdraw Revenue in your Wallet at any time, provided that the amount is over $.05. Game Jolt will make reasonable efforts to process such withdrawal requests nightly, but you agree and acknowledge that there may be delays. You can set a maximum amount of Revenue to be held in your Wallet, and any amount above that maximum will be transferred to your Connected Withdrawal Method at the end of each month. You can also set a minimum withdrawal amount, and when the Revenue in your Wallet is greater than your Wallet maximum plus your minimum withdrawal amount, the remaining funds will be automatically transferred to your Connected Withdrawal Method. 
+5.8. **Funds Withdrawal.** You can request to withdraw Revenue in your Wallet at any time, provided that the amount is over $.05. Game Jolt will make reasonable efforts to process such withdrawal requests nightly, but you agree and acknowledge that there may be delays. You can set a maximum amount of Revenue to be held in your Wallet, and any amount above that maximum will be transferred to your Connected Withdrawal Method at the end of each month. You can also set a minimum withdrawal amount, and when the Revenue in your Wallet is greater than your Wallet maximum plus your minimum withdrawal amount, the remaining funds will be automatically transferred to your Connected Withdrawal Method.
 
 You can set up your Connected Withdrawal Method, along with these maximums and minimums, in your Account dashboard.
 
-5.9. **Tax Forms.** If you live in the United States and earn at least $600 in a calendar year, we will send you a 1099 form to the address you include in your Account. 
+5.9. **Tax Forms.** If you live in the United States and earn at least $600 in a calendar year, we will send you a 1099 form to the address you include in your Account.
 
 5.10. **Survival of Payment Obligations.** Any payment obligations of Game Jolt will survive if this agreement is terminated. However, Game Jolt has no liability to make any payments if the payment information in your Account is not accurate, if the Account or any aspect of the Account is fraudulent, if the Products infringe on the intellectual property or rights of Game Jolt or any third party, of if the Account or the Product is in violation of this agreement or the Game Jolt Terms of Service in any way.
 
@@ -110,7 +110,7 @@ You can set up your Connected Withdrawal Method, along with these maximums and m
 
 7.2. **Opt In.** You must opt in for each individual Product, in order for those Products to be included in the Partner Program. Once opted in, the Product will be displayed on a list of Products available to Partners. You agree that Partners may download opted-in Products free of charge. No Revenue will be paid to you for these downloads by Partners. Downloads of the Products by Partners as part of the Partner Program are licenses, which may be revoked by Game Jolt at their sole discretion, and no ownership is transferred.
 
-7.3. **Opt Out.** Once a Product is opted into the Partner Program, you may then choose to opt out. However, any Partner Links created prior to opting out will remain active subject to this agreement, the Partner Program agreement, the Terms of Use and Privacy Policy. 
+7.3. **Opt Out.** Once a Product is opted into the Partner Program, you may then choose to opt out. However, any Partner Links created prior to opting out will remain active subject to this agreement, the Partner Program agreement, the Terms of Use and Privacy Policy.
 
 7.4. **Revenue Share.** Product Revenue generated from a User arriving on the Service through a Partner Link will be shared between you and the Partner, with the Partner receiving 10% of the Revenue. This Revenue share is subject to change at Game Jolt's sole discretion. The Partner's share of Revenue is in addition to Game Jolt's share, as allocated by you in your Account Dashboard.
 
@@ -148,7 +148,7 @@ You can set up your Connected Withdrawal Method, along with these maximums and m
 
 ##### 9. Confidentiality
 
-9.1. You promise to keep any confidential information that has not yet been made public, which is communicated to you under this agreement, confidential. 
+9.1. You promise to keep any confidential information that has not yet been made public, which is communicated to you under this agreement, confidential.
 
 Confidential information can include (but isn't limited to) any of the following: information relating to released or unreleased products, taxpayer identification numbers, residential addresses, bank account information and payment processing information that either you or Game Jolt are obligated to treat as confidential.
 
@@ -156,13 +156,13 @@ Confidential information can include (but isn't limited to) any of the following
 
 10.1. You may terminate your Account at any time by contacting us at contact@gamejolt.com. However, if a Product on your Account has been sold to a User or downloaded, that Product may not be removed from the Marketplace.
 
-10.2. We may terminate your Account and cease the sale of any Products on your Account at any time, and for any reason, at our sole discretion. 
+10.2. We may terminate your Account and cease the sale of any Products on your Account at any time, and for any reason, at our sole discretion.
 
 10.3. Even after your Account is terminated, you agree that Game Jolt retains the ability, worldwide and in perpetuity, to fulfill any sale and deliver any Product sold to Users up to the point that your Account was terminated.
 
 ##### 11. Warranties and Liability
 
-11.1. **No Warranties. The Marketplace and all of Game Jolt's services are provided on an "as is," "as available" basis, as modified from time to time by us. There is no warranty of any kind.** 
+11.1. **No Warranties. The Marketplace and all of Game Jolt's services are provided on an "as is," "as available" basis, as modified from time to time by us. There is no warranty of any kind.**
 
 **Game Jolt disclaims any and all warranties, either express or implied, including (without limitation) implied warranties of merchantability, fitness for a particular purpose, quiet enjoyment, quality of information, title, and non-infringement. Game Jolt also disclaims any warranty regarding non-interruption of use, freedom from bugs, and that use of the Marketplace or any Game Jolt service will be error-free.**
 
