@@ -193,5 +193,3 @@ Because some states or jurisdictions do not allow the exclusion or the limitatio
 12.7. **Entire Agreement.** This agreement is the entire agreement of you and Game Jolt. This agreement can't be modified by you, except by a written amendment signed by both of us. We can modify this agreement by sending you notice of the changes to the email address on your Account.
 
 12.8. **Severability.** If any of these provisions is found by a court to be unenforceable, that provision will be voided, and the rest of the agreement will remain in effect.
-
-By checking the box and clicking the button below marked "I Agree," I agree that I have read, understand, and agree to be bound by the terms of this agreement.
