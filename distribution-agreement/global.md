@@ -18,6 +18,8 @@ First, we need to define some of the important terms in this agreement.
 
 "**Marketplace**" means (1) the Marketplace section of the Game Jolt website (located at [gamejolt.com](http://gamejolt.com/)), the Game Jolt client (downloadable at [gamejolt.com/client](http://gamejolt.com/client)), and any other domains, subdomains or subsections of the Game Jolt website; (2) the Game Jolt sales widget that can be inserted into your website or any other website through an API that we develop and license to you; (3) any other mobile application, API, or SDK we develop and license to you that allows Users to purchase Products from Game Jolt, including in-game purchases; and (4) any other Game Jolt-branded, licensed or affiliated marketplace, platform, or service, whether existing now or in the future.
 
+"**Partner Program**" means a Game Jolt referral system that allows gameplay streamers (including YouTube and Twitch streamers), media content creators, and other online video personalities ("Partners") to send traffic to your Product page.
+
 "**Products**" are goods sold through the Marketplace, including but not limited to games, music, and artwork, plus any upgrades or add-ons to those goods.
 
 "**Product Revenue**" means any money received by Game Jolt from sales of your Products on the Marketplace, **minus** the percentage of the purchase price paid to Game Jolt (as defined below), and the actual costs of returns, discounts, chargebacks, third-party payment processing fees, wire transfers, referral fees, and any taxes that apply to the sale and are paid by Game Jolt.
@@ -68,7 +70,7 @@ The Marketplace offers you three options for monetizing your Product. You can se
 
 4.3. **Free with Advertisements.** You offer your Product for Users to download for free, but the Product is monetized by advertisements displayed on your Product page. There is more information about Ads below in the section titled "Product Ad Revenue." You may choose to disable advertisement monetization of free Products on your Account Dashboard.
 
-##### 5. Paymennts
+##### 5. Payments
 
 5.1. **Payment Terms.** When you offer a Product for sale or download on the Marketplace, you may choose to either run advertisements on your Product page, or charge a purchase price for your Product. You can't do both, even for so-called "Freemium" games. If you're charging money (4.1) or giving the User the option to pay (4.2), you can't have ads.
 
@@ -78,9 +80,9 @@ If you choose to offer your Product for download with advertisements (4.3), you 
 
 All payments will be in US Dollars, unless otherwise agreed upon in writing by you and Game Jolt.
 
-5.2. **Stripe.** Game Jolt uses Stripe Connect to process payments, for fraud prevention, and other services related to the Marketplace. By using the Marketplace, you agree to Stripe's [Stripe Connect Account Agreement](https://stripe.com/connect/account-terms), which is incorporated into this agreement by reference, including their collection and use of Personal Information, as detailed in both [Game Jolt's](http://gamejolt.com/privacy) and [Stripe's](https://stripe.com/us/privacy) Privacy Policies.
+5.2. **Stripe.** Game Jolt uses Stripe Connect to process payments, for fraud prevention, and other services related to the Marketplace. By using the Marketplace, you agree to Stripe's [Stripe Connect Account Agreement](https://stripe.com/us/connect-account/legal), which is incorporated into this agreement by reference, including their collection and use of Personal Information, as detailed in both [Game Jolt's](http://gamejolt.com/privacy) and [Stripe's](https://stripe.com/us/privacy) Privacy Policies.
 
-5.3. **Refunds.** Users may request a refund within 3 days of their purchase of a Product. As a general policy, Game Jolt will only grant refunds to Users if the Product does not actually start or fails to work because the Product is broken or non-functional, but we reserve the right to grant refunds for any reason. For more information, see our [Terms of Service](http://gamejolt.com/terms) .
+5.3. **Refunds.** Users may request a refund within 3 days of their purchase of a Product. As a general policy, Game Jolt will only grant refunds to Users if the Product does not actually start or fails to work because the Product is broken or non-functional, but we reserve the right to grant refunds for any reason. For more information, see our [Terms of Service](http://gamejolt.com/terms).
 
 5.4. **Your Wallet.** Your Revenue is kept in your Game Jolt Wallet. Funds in your Wallet will be made available approximately 7 days after each order is placed by a User and processed, to allow for any refunds, chargebacks, or fraudulent payments. You can either withdraw this money from your Wallet directly to your bank account, PayPal account, or other method of withdrawal offered as an option by Game Jolt that you connect with your Account (the "Connected Withdrawal Method"), or use it to purchase Products on the Marketplace.
 
@@ -102,37 +104,65 @@ You can set up your Connected Withdrawal Method, along with these maximums and m
 
 6.1. **Advertisements.** If you choose to monetize your Products using advertisements, Game Jolt will place advertisements using Google AdSense and/or other ad networks (at Game Jolt's sole discretion) on your Product page. You agree to abide by Google's policies, including their [policy on adult content, or the comparable policies of the applicable ad network](https://support.google.com/adsense/answer/4410771?hl=en-GB). If your Product is in violation of any laws, including intellectual property laws, or in violation of our [Terms of Service](http://gamejolt.com/terms) in **any** way, we may disallow ads on your Product page, withhold Ad Revenue, and/or terminate your Account and this agreement. Just to be clear, Game Jolt has **sole discretion** over whether or not ads can run on your Product pages.
 
-##### 7. Your Promises
+##### 7. Game Jolt Partner Program
 
-7.1. You promise that you created the content in your Product, or that you have the necessary rights to include any content that is in your Product.
+7.1. **The Program.** The Partner Program allows Partners to download your Products and create or stream videos of Product gameplay ("Partner Content"). Partners will be provided with unique URLs to Products opted into the Partner Program ("Partner Links"). When a User clicks on a Partner Link, they will be brought to your Product page. If they purchase the Product, the Partner will receive a portion of Revenue.
 
-7.2. You promise that your Product doesn't violate any laws and that it is in compliance with any regulations that apply to your Product.
+7.2. **Opt In.** You must opt in for each individual Product, in order for those Products to be included in the Partner Program. Once opted in, the Product will be displayed on a list of Products available to Partners. You agree that Partners may download opted-in Products free of charge. No Revenue will be paid to you for these downloads by Partners. Downloads of the Products by Partners as part of the Partner Program are licenses, which may be revoked by Game Jolt at their sole discretion, and no ownership is transferred.
 
-7.3. You promise to provide accurate information, including information about your Connected Withdrawal Method, in your Account Dashboard.
+7.3. **Opt Out.** Once a Product is opted into the Partner Program, you may then choose to opt out. However, any Partner Links created prior to opting out will remain active subject to this agreement, the Partner Program agreement, the Terms of Use and Privacy Policy.
 
-7.4. You promise that your Product doesn't contain any viruses, worms, or Trojan horses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or devices.
+7.4. **Revenue Share.** Product Revenue generated from a User arriving on the Service through a Partner Link will be shared between you and the Partner, with the Partner receiving 10% of the Revenue. This Revenue share is subject to change at Game Jolt's sole discretion. The Partner's share of Revenue is in addition to Game Jolt's share, as allocated by you in your Account Dashboard.
 
-7.5. You promise that your Product won't attempt to obtain unauthorized access to any data of Game Jolt, Users, or any third party.
+7.5. **No Guarantees.** Opting into the Partner Program does not guarantee that Partners will download or play your Product, create videos of your Product, or display Partner Links to your Product, or that your Products will be sold once a User clicks on a Partner Link to your Product.
 
-7.6. You promise that your Product doesn't violate any copyright, patent, trademark, trade secret, or right of publicity laws, that it doesn't contain any slander or libel, and that it doesn't infringe on anyone's rights.
+7.6. **Disputes.** Disputes between you and a Partner regarding the Partner Content and their use and advertisement of the Products must be resolved between you and the Partner. You acknowledge and agree that Game Jolt is not a party to such a dispute, nor is Game Jolt responsible for the outcome of any such dispute.
 
-##### 8. Confidentiality
+7.7. **Other Terms.** By opting into the Partner Program, you agree to the following terms:
 
-8.1. You promise to keep any confidential information that has not yet been made public, which is communicated to you under this agreement, confidential.
+7.7.1. Neither you nor Game Jolt have any ownership or control, editorial or otherwise, of the Partner Content, including any comments by the Partner or the positive or negative viewpoint of the Partner toward the Product;
+
+7.7.2. Your Product will conform with the Game Jolt Terms of Use and Privacy Policy, and any other Game Jolt policies;
+
+7.7.3. Game Jolt will not reveal any non-public information about any Partner in the Partner Program to you, including names, addresses, and other contact information;
+
+7.7.4. Game Jolt may remove your Products from the Partner Program and invalidate your Partner Links at any time and at their sole discretion;
+
+7.7.5. Game Jolt and Partners in the Partner Program are not partners, joint venturers, a single business entity, or any other type of partnership, and not affiliated in any way. Partners are not agents of Game Jolt, nor do they have the ability to speak for Game Jolt or contractually bind Game Jolt in any way;
+
+7.7.6. Game Jolt does not monitor any Partner Content, nor does Game Jolt have any responsibility to take action regarding Partner Content or to respond to complaints by you or any other party about Partner Content in any way, whether or not the Partner Content is located on the Game Jolt Marketplace, Game Jolt website or standalone software application, or any other location.
+
+##### 8. Your Promises
+
+8.1. You promise that you created the content in your Product, or that you have the necessary rights to include any content that is in your Product.
+
+8.2. You promise that your Product doesn't violate any laws and that it is in compliance with any regulations that apply to your Product.
+
+8.3. You promise to provide accurate information, including information about your Connected Withdrawal Method, in your Account Dashboard.
+
+8.4. You promise that your Product doesn't contain any viruses, worms, or Trojan horses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or devices.
+
+8.5. You promise that your Product won't attempt to obtain unauthorized access to any data of Game Jolt, Users, or any third party.
+
+8.6. You promise that your Product doesn't violate any copyright, patent, trademark, trade secret, or right of publicity laws, that it doesn't contain any slander or libel, and that it doesn't infringe on anyone's rights.
+
+##### 9. Confidentiality
+
+9.1. You promise to keep any confidential information that has not yet been made public, which is communicated to you under this agreement, confidential.
 
 Confidential information can include (but isn't limited to) any of the following: information relating to released or unreleased products, taxpayer identification numbers, residential addresses, bank account information and payment processing information that either you or Game Jolt are obligated to treat as confidential.
 
-##### 9. Termination
+##### 10. Termination
 
-9.1. You may terminate your Account at any time by contacting us at contact@gamejolt.com. However, if a Product on your Account has been sold to a User, that Product may not be removed from the Marketplace.
+10.1. You may terminate your Account at any time by contacting us at contact@gamejolt.com. However, if a Product on your Account has been sold to a User or downloaded, that Product may not be removed from the Marketplace.
 
-9.2. We may terminate your Account and cease the sale of any Products on your Account at any time, and for any reason, at our sole discretion.
+10.2. We may terminate your Account and cease the sale of any Products on your Account at any time, and for any reason, at our sole discretion.
 
-9.3. Even after your Account is terminated, you agree that Game Jolt retains the ability, worldwide and in perpetuity, to fulfill any sale and deliver any Product sold to Users up to the point that your Account was terminated.
+10.3. Even after your Account is terminated, you agree that Game Jolt retains the ability, worldwide and in perpetuity, to fulfill any sale and deliver any Product sold to Users up to the point that your Account was terminated.
 
-##### 10. Warranties and Liability
+##### 11. Warranties and Liability
 
-**10.1. No Warranties. The Marketplace and all of Game Jolt's services are provided on an "as is," "as available" basis, as modified from time to time by us. There is no warranty of any kind.**
+11.1. **No Warranties. The Marketplace and all of Game Jolt's services are provided on an "as is," "as available" basis, as modified from time to time by us. There is no warranty of any kind.**
 
 **Game Jolt disclaims any and all warranties, either express or implied, including (without limitation) implied warranties of merchantability, fitness for a particular purpose, quiet enjoyment, quality of information, title, and non-infringement. Game Jolt also disclaims any warranty regarding non-interruption of use, freedom from bugs, and that use of the Marketplace or any Game Jolt service will be error-free.**
 
@@ -140,26 +170,26 @@ Confidential information can include (but isn't limited to) any of the following
 
 Because some states or jurisdictions do not allow the disclaimer of implied warranties, the foregoing disclaimer may not apply to you.
 
-10.2. **Limitation of Liability. To the maximum extent permissible by law, Game Jolt and its affiliates have no liability to you or any other person for any loss of profits, sales, business, data, or other incidental, consequential, or special loss or damage of any kind. This includes, without limitation, exemplary and punitive damages, arising out of this agreement or your use of the Marketplace or any Game Jolt service.**
+11.2. **Limitation of Liability. To the maximum extent permissible by law, Game Jolt and its affiliates have no liability to you or any other person for any loss of profits, sales, business, data, or other incidental, consequential, or special loss or damage of any kind. This includes, without limitation, exemplary and punitive damages, arising out of this agreement or your use of the Marketplace or any Game Jolt service.**
 
 **The total liability of Game Jolt and its affiliates to you or any third party arising out of this agreement will be limited to Game Jolt's share of any Product purchase or advertisement income on any Product on your Account in the two months before the event giving rise to the liability. This limitation of liability will apply even if the express warranties in this agreement fail in their essential purpose.**
 
 Because some states or jurisdictions do not allow the exclusion or the limitation of liability for certain types of damages, in those states or jurisdictions the liability of Game Jolt and its affiliates is limited to the fullest extent permitted by law.
 
-##### 11. The Legal Stuff (Don't Stop Reading)
+##### 12. The Legal Stuff (Don't Stop Reading)
 
-11.1. **Assignment.** You can't assign this agreement to another party without our written consent.
+12.1. **Assignment.** You can't assign this agreement to another party without our written consent.
 
-11.2. **Indemnity.** You will indemnify, defend and hold harmless Game Jolt and its directors, officers, managers, employees and agents from and against any and all losses, liabilities, expenses, judgments, settlements reasonably approved by the indemnified party, costs, or damages (including reasonable attorneys' fees) resulting from claims asserted by third parties arising out of or in connection with this agreement, to the extent that they were caused by the actual or alleged breach (by act or omission) of your representations, warranties or obligations under this agreement. The obligations under this section will survive the termination of this agreement
+12.2. **Indemnity.** You will indemnify, defend and hold harmless Game Jolt and its directors, officers, managers, employees and agents from and against any and all losses, liabilities, expenses, judgments, settlements reasonably approved by the indemnified party, costs, or damages (including reasonable attorneys' fees) resulting from claims asserted by third parties arising out of or in connection with this agreement, to the extent that they were caused by the actual or alleged breach (by act or omission) of your representations, warranties or obligations under this agreement. The obligations under this section will survive the termination of this agreement
 
-11.3. **Governing Law.** This agreement is governed by Pennsylvania law, and any disputes will be held in the courts of Pennsylvania.
+12.3. **Governing Law.** This agreement is governed by Pennsylvania law, and any disputes will be held in the courts of Pennsylvania.
 
-11.4. **Arbitration.** Any claim arising out of this agreement or the dealings of you and Game Jolt will be settled by arbitration. The arbitration will use the Streamlined Arbitration Rules and Procedures of JAMS. The arbitrator's decision will be final and binding on both you and Game Jolt. Whichever party prevails in the arbitration will be entitled to attorneys' fees, travel expenses, and any other expenses awarded at the arbitrator's discretion.
+12.4. **Arbitration.** Any claim arising out of this agreement or the dealings of you and Game Jolt will be settled by arbitration. The arbitration will use the Streamlined Arbitration Rules and Procedures of JAMS. The arbitrator's decision will be final and binding on both you and Game Jolt. Whichever party prevails in the arbitration will be entitled to attorneys' fees, travel expenses, and any other expenses awarded at the arbitrator's discretion.
 
-11.5. **Class Action Waiver.** You and Game Jolt agree that any arbitration and any other litigation must be limited to the claim between you and Game Jolt individually. This means that **neither of us have the right to arbitrate or litigate any dispute on a class action basis, or use class action procedures. Neither of us can bring a dispute as a private attorney general. Neither of us is allowed to join any arbitration or litigation with any other arbitration or litigation.**
+12.5. **Class Action Waiver.** You and Game Jolt agree that any arbitration and any other litigation must be limited to the claim between you and Game Jolt individually. This means that **neither of us have the right to arbitrate or litigate any dispute on a class action basis, or use class action procedures. Neither of us can bring a dispute as a private attorney general. Neither of us is allowed to join any arbitration or litigation with any other arbitration or litigation.**
 
-11.6. **No Partnership.** You and Game Jolt are not partners, joint venturers, a single business entity, or any other type of partnership. You are not Game Jolt's agent, and are not authorized to act as Game Jolt's agent.
+12.6. **No Partnership.** You and Game Jolt are not partners, joint venturers, a single business entity, or any other type of partnership. You are not Game Jolt's agent, and are not authorized to act as Game Jolt's agent.
 
-11.7. **Entire Agreement.** This agreement is the entire agreement of you and Game Jolt. This agreement can't be modified by you, except by a written amendment signed by both of us. We can modify this agreement by sending you notice of the changes to the email address on your Account.
+12.7. **Entire Agreement.** This agreement is the entire agreement of you and Game Jolt. This agreement can't be modified by you, except by a written amendment signed by both of us. We can modify this agreement by sending you notice of the changes to the email address on your Account.
 
-11.8. **Severability.** If any of these provisions is found by a court to be unenforceable, that provision will be voided, and the rest of the agreement will remain in effect.
+12.8. **Severability.** If any of these provisions is found by a court to be unenforceable, that provision will be voided, and the rest of the agreement will remain in effect.
