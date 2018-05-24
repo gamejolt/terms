@@ -1,127 +1,301 @@
 # Game Jolt Privacy Policy
 
-_This privacy policy is effective as of June 8, 2016_
+_This privacy policy is effective as of May 25, 2018_
 
-**For questions or concerns regarding the use of personal information you submit to us, please contact us at [contact@gamejolt.com](mailto:contact@gamejolt.com).**
+We ask that you read this privacy notice carefully, as it contains important information on who we
+are, how and why we collect, store, use, and share personal information, your rights in relation to
+your personal information and on how to contact us and supervisory authorities in the event you have
+a complaint.
 
-Game Jolt (the "**Company**," "**Game Jolt**," "**we**," "**us**," or "**our**") is committed to respecting the privacy rights and concerns of users of Game Jolt's website, [gamejolt.com](http://gamejolt.com/), including without limitation, all sub-pages (the "**Site**"), and the Game Jolt desktop client software,  mobile application, game API, and widgets (the "**Software**") (collectively, the "**Service**"). We have established and implemented this Privacy Policy to inform users of the Service of how we use and protect the information we collect through the Service.  By using the Service, you consent to Game Jolt's collection, use, storage, deletion, transfer to the United States, and disclosure of personal information relating to you as set forth in this Privacy Policy.  This Privacy Policy is effective as of the date set forth above and covers our collection, use, and disclosure of information we collect through the Service.
+### Who we are
 
-Game Jolt is committed to complying with the EU-U.S. Privacy Shield Principles of protecting personal data.
+Lucent Web Creative, LLC (dba Game Jolt) (“Game Jolt,” “We,” or “Us”) collects, uses and is
+responsible for certain personal information about you, as part of the Game Jolt website, software
+application, and embedded widgets found on other sites (collectively, the “Service”).
 
-This Privacy Policy answers the following questions:
+For those in the European Union, we are regulated under the General Data Protection Regulation which
+applies across the European Union (including in the United Kingdom) and we are responsible as
+controller of that personal information for the purposes of those laws.
 
-- What information do we collect about you?
-- How do we use the information?
-- Will we share your personal information with third parties?
-- What choices do you have about the collection and use of your personal information?
-- What security measures do we take to safeguard your personal information?
+### The Personal Information we collect and use
 
-### What information do we collect about you?
+**Information collected by us:** In the course of providing you with the Service, we collect the
+following personal information when you provide it to us:
 
-**What is Personal Information?** "Personal information" means information that can be used to identify and contact you.  Our Site may be browsed anonymously, but many areas of the Service may not be.  If you do not browse anonymously, the Service may collect personal information from you including your email address, postal address, name, username, gender, password, phone number, location, photograph, social media information, credit card information, bank account information, billing information, social security number, and cookies.
+* Your username, email address, and password during the creation of your account on the Service or
+	in communicating with us on or off the Service (your “Account Information”).
+* Your billing address, PayPal account information, and credit card information, during the setup of
+	purchasing methods on the Service (your “Billing Information”).
+* Your physical address, phone number, birth date, business name and information (including names of
+	owners and management), IRS tax withholding form information, PayPal and bank account information,
+	identification card number, and tax ID/social security number, during the setup of withdrawal
+	methods on the Service (your “Withdrawal Information”).
+* Your display name, profile images or photographs, biographical information, location, gender,
+	website links, and social media information during the setup of your public profile on the Service
+	(your “Profile Information”).
+* Your IP address, browser type, and information about your activities on the Service are collected
+	automatically while you use the Service (your “Automatic Information”).
+* Your driver’s license or other government-issued identification information, and certain other
+	information may be collected if we need to verify your identity for legal purposes (your “Identity
+	Information”).
 
-**Information You Provide:** You provide certain personally identifiable information to Game Jolt when choosing to participate in various activities on the Service, such as creating an account, uploading games and other products, posting messages in the comment sections, sending feedback or requesting customer service or support, chat messages, responding to surveys, or subscribing to newsletters or other mailing lists. Additional information (such as address) may be collected when uploading a game, or making a purchase.
+**Information we collect from third parties:** We may collect personal information from our
+affiliates and third parties. Here are a few examples:
 
-You may choose to disclose information about yourself in the various comment boxes and forums around the Service or in creating user "profiles". Information that you disclose in these areas is public information, and will be accessible to anyone who uses the Service.
+* If you link a social media account to Game Jolt, or sign up with one, we’ll receive information
+	from that social media profile, including Profile Information defined above and information about
+	your friends and contacts that you share with us.
+* Advertisers may let us know you installed a new app or game or made a purchase, so we can
+	determine whether we showed you an ad for it.
+* If you interact with one of our advertisers, they may share information with us to help target or
+	measure the performance of ads.
 
-If you choose to sell games and products on the Marketplace portion of the Service, we may need to collect your social security number, identification card number, and a password in order to stay in compliance with VAT and to prevent fraud.
+**How we use your Personal Information:** We use your personal information as follows:
 
-Game Jolt's collection of personal information is limited to information relevant to Game Jolt's data processing, tax compliance, and payment processing. We will not collect "sensitive information" without your affirmative consent.
+* Your Account Information is used to create and maintain your account on the Service, to
+	communicate with you about Service-related issues (including receiving and responding to
+	communications that you send us through the Service), and to send you Service-related
+	communications about new products and services.
+* Your Billing Information is used to allow you to purchase products on the Service.
+* Your Withdrawal Information is used to allow you to withdraw money earned from ad revenue, by
+	selling products on the Service, or through the use of Partner affiliate links, if you’re a
+	developer or an affiliate partner.
+* Billing Information and Withdrawal Information is also used for VAT and other tax compliance, and
+	to prevent fraud on the Service.
+* Your Profile Information is used to allow you to customize your Game Jolt profile, which is
+	visible to other users of the Service when you publish games on the Service, comment, rate games,
+	post blogs and articles, and participate in other communications and activities through the
+	Service. Be aware that your profile and your communications and activities on the Service are
+	publicly viewable once posted.
+* Your Automatic Information is gathered and pooled with other users’ information, and used for the
+	purposes of improving the Service, such as tracking the total number of visitors to the Service,
+	their aggregate activities on the Service, the number of messages, comments, and other
+	communications users send, and tracking the sites that refer visitors to Game Jolt.
+* Your Identity Information is used to verify your identity for the purposes of selling products on
+	the Service, signing up as an affiliate, withdrawing funds earned from sales and ad revenue, and
+	to comply with other legal obligations as necessary.
 
-**Other Information We Track:** The Service uses passive tracking technologies to log non-identifiable information such as IP address, browser type and Service usage (for example: what pages are accessed, how often, referring/exit pages and URLs). We may also employ "cookies," web beacons, tracking pixels, or similar technologies that provide additional functionality to the Service and help us analyze Service usage more accurately. You can set your browser to reject cookies, but if you do, some features on our Service (such as logging in) will not function normally.
+**Who we share your Personal Information with:** We share your Personal Information with certain
+third parties as part of our operation of the Service. This data sharing enables us to provide you
+with the Service in the optimal way, from serving you personalized, relevant advertisements to
+allowing you to make purchases and sell products on the Game Jolt Marketplace.
 
-**"Do Not Track":** The Service uses Stripe for fraud prevention and payment processing. Stripe's anti-fraud services are designed to prevent your credit card and other Personal Information from being used in a fraudulent purchase through the Service. Stripe utilizes several tools to minimize fraud losses and to help us determine if a transaction is fraudulent. These include tools that allow Stripe to auto-reject suspicious transactions and notify businesses of potentially-suspicious charges so that we can make the most informed decision possible as to whether accept a charge. Thus, in an effort to protect you against credit card fraud, the Service does not honor "do not track" signals when you use the Service. Stripe may also track your activity over time and over a network of sites. We encourage you to learn more about Stripe and read their privacy policy on their website at [https://stripe.com/us/privacy](https://stripe.com/us/privacy).
+Some of those third-party recipients may be based outside the European Economic Area — for further
+information, including how we safeguard your personal data when this occurs, see their individual
+privacy policies linked to above and the section entitled “Transfer of your Information out of the
+EEA,” below.
 
-**Google Analytics:** Our Service uses Google Analytics to help us learn about who visits our site and what pages are being viewed.
+We share your Personal Information with the following third parties:
 
-**Children's Privacy:** We do not knowingly collect any personal information from children under the age of 13, allow them to create accounts, sign up for newsletters, make purchases, or browse the Service. Game Jolt takes children's privacy seriously and encourages parents to play an active role in their children's online experience at all times.  We urge parents to instruct their children never to give out their real names, addresses, or phone numbers, without parental permission, when on-line.  If you have any concerns about your child's personal information, please contact us at [contact@gamejolt.com](mailto:contact@gamejolt.com).
+**Advertisements:** We share your Account Information and Profile Information with advertisers to
+display advertisements on the Service that are relevant to your interests. These third-party
+advertisers (and their relevant privacy policies) are
+[listed on our Advertising Providers page here](https://gamejolt.com/privacy/ads).
 
-### How do we use the information?
+If you would like more information about online advertising and to know your choices about not
+having this information used by these companies, please see:
+[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
-We use the Personal Information we collect to provide you the services offered on our Service, whether you are just browsing, or are a customer or a seller of games and other products. We use the information we collect to respond to your requests and provide customer service, let you know about new games and other news from Game Jolt, ask for your input and feedback on what we are doing, provide personalized services and recommendations, let you purchase or sell games and other products, and as may otherwise be described in this Privacy Policy or at the time that we collect information from you.
+**Payment Processing and Bank Transfers:** We share your Billing Information with our third-party
+payment processors Stripe and PayPal, in order to allow you to make purchases on the Service, and to
+withdraw earnings from selling products on the Game Jolt Marketplace and from the Game Jolt Partner
+Program.
 
-We use both your personally identifiable information and certain non-personally identifiable site usage data to improve the quality and design of the Service and to create new features, promotions, and services by storing, tracking, and analyzing user preferences and trends. We also use this information to serve relevant ads on the Service.
+The Service uses Stripe for fraud prevention and payment processing. Stripe’s anti-fraud services
+are designed to prevent your credit card and other Personal Information from being used in a
+fraudulent purchase through the Service. Stripe utilizes several tools to minimize fraud losses and
+to help us determine if a transaction is fraudulent. These include tools that allow Stripe to
+auto-reject suspicious transactions and notify businesses of potentially-suspicious charges so that
+we can make the most informed decision possible as to whether accept a charge. Thus, in an effort to
+protect you against credit card fraud, the Service does not honor "do not track" signals when you
+use the Service. Stripe may also track your activity over time and over a network of sites. We
+encourage you to learn more about Stripe and read their privacy policy on their website at
+[https://stripe.com/us/privacy](https://stripe.com/us/privacy).
 
-We may also combine the information you submit to us with information we have collected from you in other forms, such as through emails or offline, or with publicly available information or information we obtain from third parties.
+The Service also uses PayPal for payment processing and bank transfers. You can
+[view PayPal’s privacy policy here](https://www.paypal.com/us/webapps/mpp/ua/privacy-full).
 
-**Depersonalizing your information:** We may make your Personal Information non-personally identifiable by either combining it with information about other users (aggregating your Personal Information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally identifiable. This process is known as de-personalizing your information. You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your Personal Information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect on the Service (the "Analytical Data"). While we will never sell your Personal Information, we may make any commercial use of the de-personalized Analytical Data, including without limitation, sharing the Analytical Data with third parties.
+**Google Analytics:** We may use third party website analytic tools such as Google Analytics on the
+Service, that employ cookies to collect certain information concerning your use of the Service. If
+you wish to opt out of Google Analytics,
+[please click here](https://tools.google.com/dlpage/gaoptout).
 
-**Changes to Privacy Policy:** If our policy on information collection or uses changes, we will revise this Privacy Policy to reflect the changes. We will post the updated policy here and may notify you if we think the changes will significantly impact the treatment of information you have already provided.
+**Other Sharing:**
 
-### Will we share your personal information with third parties?
+We will share your Personal Information if we have a good faith belief that (i) access, use,
+preservation or disclosure of such information is reasonably necessary to satisfy any applicable
+law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement
+or governmental authorities, (ii) such action is necessary to detect, prevent, or otherwise address
+fraud, security or technical issues associated with the Service, or (iii) such action is appropriate
+to protect the rights, property or safety of Game Jolt, its employees, clients, or users of the
+Service.
 
-We will share the Personal Information we collect from you under the following circumstances:
+We will not share your personal information with any other third party.
 
-**Protection of rights:**  Game Jolt will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Service, or (iii) such action is appropriate to protect the rights, property or safety of Game Jolt, its employees, clients, or users of the Service.
+**How long your Personal Information will be kept:** We will keep your Personal Information for the
+length of time required to provide you with the Service, unless a longer retention period is
+required or permitted by law. Afterwards, we delete all aforementioned data in our possession within
+a reasonable timeframe. We do not verify the correctness of personal data that we collect or you
+provide.
 
-**Asset transfers:**  If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Game Jolt's assets or a line of business, user information, including personal information collected from you through your use of the Service, could be included in the transferred assets.  Should such an event occur, Game Jolt will use reasonable means to notify you through a prominent notice on the Service. By sharing your personal information with Game Jolt, you are giving Game Jolt consent to transfer your personal information to a third party in an asset transfer described here.
+Please note that some data may be retained if necessary to resolve disputes, enforce Game Jolt user
+agreements, and comply with technical and legal requirements and constraints related to the
+security, integrity and operation of the Service.
 
-**Service Providers:** We may share your personal information with third party vendors or service providers that we engage for the purpose of fulfilling product orders or processing information on our and your behalf, such as Stripe.  For example, we may partner with other companies to process payments for the Service.  Additionally, we may partner with other companies to process, analyze, and/or store data, including, but not limited to, Analytical Data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
+**Reasons we can collect and use your Personal Information:** The laws in some jurisdictions require
+that we notify you of the lawful basis for collecting your Personal Information.
 
-Otherwise, unless we tell you first (such as at the time we collect information from you), or unless it is part of a specific program or feature in which you have elected to participate, we do not share personally identifiable information that we have collected (such as name or email address) with other, third-party companies for their own commercial or marketing purposes.
+To the extent that such laws apply, we rely on the following as the lawful basis on which we collect
+and use your personal information:
 
-**Forums:** You should be aware that, when you disclose information about yourself in Game Jolt's forums, comment boxes, chat, and on your user profile, the information is being made publicly available and may be collected and used by Game Jolt or other third parties.  When you disclose any information in on our forums and other publicly-available areas, you do so at your own risk.
+* **Consent:** At times we may collect, process, store, transfer or disclose your personal data on
+	the basis of your implied or explicit consent.
+* **To fulfill our contractual obligations:** In order to fulfill our contractual obligations to
+	you, we must collect, process, and store your personal data and information. We must handle your
+	personal data in this manner to create your account on the Service, to process purchases on the
+	Service, verify your identity for fraud and tax compliance reasons, and to allow withdrawals of
+	funds in your account to your connected withdrawal method specified in your account.
 
-**EU Privacy Shield Compliance:** Game Jolt specifies in contracts with third parties that handle the personal data collected by Game Jolt that the personal data "may only be processed for limited and specified purposes consistent with" the purposes laid out in this Privacy Policy. Those third parties agree to provide the same level of protection as the EU Privacy Shield.
+Additionally, we may at times have to transfer or disclose your personal data to third parties, in
+order to fulfill other contractual obligations to you. For example, we may have to transfer certain
+information concerning your account and billing information to our payment processors for any
+purchases you make.
 
-**Links and Third Parties:** From time to time we may include on the Service links to other websites as a service to you. The third party sites are operated by companies that are outside of our control. Many of the games and other products available for download and purchase on the Service are controlled by third parties, as well. As such, your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
+* **Furtherance of legitimate interests:** We may collect, process, store, transfer or disclose your
+	personal data in furtherance of those legitimate interests of ours which are not overridden by
+	your interests or fundamental rights and freedoms as set forth in the applicable laws. These
+	legitimate interests include, but are not limited to, (i) providing you with the Service, (ii)
+	protecting our users, staff, and property from fraud and other harm, (iii) collecting information
+	on how you use the Service in order to optimize the design and functionality of the Service, (iv)
+	display personalized advertisements, and (v) communicating with you via e-mail for communications
+	you have explicitly opted into (e.g., notifications about new products and services) or for
+	communications regarding your account on the Service.
 
-We sometimes work with third parties to add features to our Service. These third parties may place cookies on your browser when you visit certain pages of our Service, or collect cookies that they have previously placed, along with the URL of the page you visited. We do not control those third parties or their use of data. This privacy policy does not cover those third parties' use of data.
+* **Legal compliance:** We may collect, process, store, transfer or disclose your personal data to
+	comply with our legal obligations.
 
-**Third party advertising:** We use third-party advertising companies to serve ads when you visit our Service. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+**Cookies:** When you use the Service, a number of cookies are used by us and by third parties to
+allow the Service to function, to collect useful information about visitors, and to help to make
+your user experience better.
 
-### What choices do you have about the collection and use of your Personal Information?
+Some of the cookies we use are strictly necessary for our Service to function, and we don’t ask for
+your consent to place these on your computer. For more information about our use of cookies, please
+see our cookie policy.
 
-When you provide us with personal information by entering in your username, email addresses, or other personal information into the Service you consent to our collecting, using, and sharing it in accordance with this Privacy Policy.
+**Depersonalized Information:** We may make your Personal Information non-personally identifiable by
+either combining or aggregating it with information about other users, or by removing
+characteristics (such as your name or email address) that make the information personally
+identifiable. This process is known as de-personalizing your information and is used to analyze
+usage and improve the Service.
 
-**Control of Your Information:** Game Jolt allows you to control the way we use personally identifying information that we might obtain.  At the time you provide personal information, Game Jolt may give you the option of declining any future offers or information about new products, promotions, or services.  In addition, many of the "mailings" Game Jolt may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings.
+**Children’s Privacy:** We do not knowingly collect any personal information from children under the
+age of 13, allow them to create accounts, sign up for newsletters, make purchases, or browse the
+Service. In addition, we may limit how we collect, use, and store some of the information of EU
+users between 13 and 16. Game Jolt takes children’s privacy seriously and encourages parents to play
+an active role in their children’s online experience at all times. We urge parents to instruct their
+children never to give out their real names, addresses, or phone numbers, without parental
+permission, when on-line. If you have any concerns about your child’s personal information, please
+contact us at [contact@gamejolt.com](mailto:contact@gamejolt.com).
 
-You may opt out of any disclosure of personal data to a third party or the use of data for any purpose other than the one for which it was initially collected by emailing us at [contact@gamejolt.com](mailto:contact@gamejolt.com). You must provide us with the email address or username associated with your account and the details of your privacy request.
+**Links to Other Sites:** The Service may contain links to other sites. If you click on a
+third-party link, you will be directed to that site. These external sites are not operated by us.
+Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control
+over, and assume no responsibility for the content, privacy policies, or practices of any
+third-party sites or services.
 
-**Data Retention:** Game Jolt retains the collected data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Thereafter, Game Jolt deletes all aforementioned data in its possession within a reasonable timeframe. Game Jolt does not verify the correctness of personal data.
+**Social Media Features:** The Service includes certain social media features, such as social media
+sharing buttons, embedded videos, or interactive mini-programs that run on the Service. These
+features may collect your IP address, which page you are visiting, what video is being watched and
+where it is embedded, and may set a cookie to enable the feature to function properly. Social media
+features and widgets are either hosted by a third party or hosted directly on the Service. Your
+interactions with these features are governed by the privacy policy of the company providing it.
 
-In some cases, we may not be able to delete your personal information, and will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+### Transfer of your Information out of the EEA
 
-We take reasonable steps and appropriate measures to protect data from loss, misuse, unauthorized access, disclosure, alteration, and destruction.
+Game Jolt is based in the United States. No matter where you are located, you consent to the
+processing, transfer and storage of your information in and to the U.S., and other countries, in
+accordance with the privacy policies of third parties with whom we share your Personal Information.
+The laws of the U.S. and other countries governing data collection and use may not be as
+comprehensive or protective as the laws of the country where you live.
 
-Please note that some data may be retained if necessary to resolve disputes, enforce Game Jolt user agreements, and comply with technical and legal requirements and constraints related to the security, integrity and operation of the Service.
+If you would like further information, please contact us (see “How to contact us” below).
 
-**Access and How to Correct or Delete Your Data:** Any individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to the following email address: [contact@gamejolt.com](mailto:contact@gamejolt.com). Please include your email address associated with your account and a detailed description of your data request. We will respond to any request for access within 45 days.
+### Your Rights
 
-In exceptional circumstances, such as where the privacy of other individuals would be violated, where it may reveal trade secrets, or where the burden of expense of providing access would be disproportionate to the risks to your privacy, we may restrict such requests for access.
+Under the laws of some jurisdictions, including the General Data Protection Regulation in the EEA,
+you have a number of important rights with regard to your Personal Information.
 
-### What security measures do we take to safeguard your personal information?
+* By law, you can ask us what information we hold about you, and you can ask us to correct it if it
+	is inaccurate. If we have asked for your consent to process your personal data, you may withdraw
+	that consent at any time.
+* If we are processing your personal data for reasons of consent or to fulfill a contract, you can
+	ask us to give you a copy of the information in a machine-readable format so that you can transfer
+	it to another provider.
+* If we are processing your personal data for reasons of consent or legitimate interest, you can
+	request that your data be erased. This process may take as much as 30 days for full erasure of
+	your data, and in some cases, we may be required to retain some of your data for the purposes of
+	stopping fraud or other legal and contractual requirements.
+* You have the right to ask us to stop using your information for a period of time, if you believe
+	we are not doing so lawfully.
+* Finally, in some circumstances, you can ask us not to reach decisions affecting you using
+	automated processing or profiling.
 
-We use standard and reasonable technological and procedural measures to protect the information you provide. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect our users' personal information, we cannot ensure or warrant the security of any information you transmit to us or through the Service and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number, letter and special character combinations that would be difficult for a third party (or hacking program) to determine, and do not write it down where someone may see it.
+For further information on each of those rights, including the circumstances in which they apply,
+see
+[the Guidance from the UK Information Commissioner’s Office](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/)
+(ICO) on individuals rights under the General Data Protection Regulation.
 
-**International Transfers:** Personal information collected on the Service may be stored and processed in the United States or any other country in which Game Jolt or its affiliates, subsidiaries or agents maintain facilities, and by using the Service, you consent to any such transfer of information outside of your country.
+If you would like to exercise any of those rights, please email us at
+[contact@gamejolt.com](mailto:contact@gamejolt.com). We may ask for additional verification
+information, such as your username, email address, and any other information required to be sure
+that you are the owner of that data.
 
-### Dispute Resolution
+If you would like to unsubscribe from any email communication from us, you can also click on the
+unsubscribe button at the bottom of the email. It may take a few days for this to take effect.
 
-**Governing Law:** This Privacy Policy is governed by, and construed under, the laws of the United States of America and the laws of the State of Pennsylvania, excluding its choice of law provisions.
+### Keeping your Personal Information secure
 
-**Mediation:** If you are a resident of a country outside the European Union, you agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy, you and Game Jolt will attempt in good faith to negotiate a written resolution of the matter directly between the parties.  You agree that if the matter remains unresolved for 45 days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in or near Hershey, Pennsylvania with a mutually agreed mediator in an attempt to resolve the dispute.  Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorneys' fees, even if you would otherwise be entitled to them.
+We have taken steps to put appropriate security measures in place to prevent personal information
+from being accidentally lost, or used or accessed in an unauthorized way.
 
-**Dispute Resolution for Residents of the European Union:** If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may report your claim to us at [contact@gamejolt.com](mailto:contact@gamejolt.com). We will respond to your claim within 45 days.
+For example, we limit access to your personal information to those who have a genuine business need
+to know it. Those processing your information will do so only in an authorized manner and are
+subject to a duty of confidentiality.
 
-Game Jolt will expeditiously investigate and resolve any privacy complaint from any EU citizen at no additional cost to you.
+We also have procedures in place to deal with any suspected data security breach. We will notify you
+and any applicable regulator of a suspected data security breach where we are legally required to do
+so. We use SSL encryption and other technologies to keep data safe when we transfer and store it.
 
-If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you alternatively may report your claim to the European Union Data Protection Authorities located in your jurisdiction.
+If you are an EU citizen and you want more detailed information from Get Safe Online on how to
+protect your information and your computers and devices against fraud, identity theft, viruses and
+many other online problems, please visit
+[http://www.getsafeonline.org](http://www.getsafeonline.org).
 
-If you avail yourself of the above options but are unable to remedy your complaint, then you may file a complaint with the U.S. Department of Commerce at the following URL: [https://www.commerce.gov/privacyshield](https://www.commerce.gov/privacyshield)
+### How to complain
 
-If all of the above avenues have been exhausted, then you may seek binding arbitration governed by the JAMS Streamlined Arbitration Rules & Procedures (the "JAMS Rules"), and will be administered by JAMS, except as modified below. The JAMS Rules and Forms are available online at [http://www.jamsadr.com](http://www.jamsadr.com). The arbitration will take place in or near Hershey, Pennsylvania. If the claim being arbitrated is less than $10,000, then the party filing the arbitration may choose to have the arbitration conducted by telephone, online, and/or be solely based on written submissions. A hearing will be established according to the AAA Rules for claims in excess of $10,000.
+We hope that we can resolve any questions or concern you raise about our use of your Personal
+Information. Please contact us via the methods listed below in the section entitled “How to contact
+us” to let us know about any of your questions or concerns, and we will get back to you to resolve
+the issue.
 
-**European Privacy Shield:** Game Jolt complies with the EU Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. Game Jolt has certified that it adheres to Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, please visit [https://www.commerce.gov/privacyshield](https://www.commerce.gov/privacyshield).
+If you are an EU citizen, the General Data Protection Regulation also gives you right to lodge a
+complaint with a supervisory authority, in particular in the European Union (or European Economic
+Area) state where you work, normally live, or where any alleged infringement of data protection laws
+occurred.
 
-### Your Options
+You can find a list of the supervisory authorities and their contact information
+[by clicking here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
 
-If you do not agree with the privacy practices described in this Privacy Policy, it may be best to limit your level of interaction with our Service, which could include simply not providing us with personal information. While this will limit the services that our Service is able to provide, most of the free games will remain playable. This option may be best for those who do not wish to provide the mandatory information required to set up an account.
+### Changes to this Privacy Notice
 
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at [contact@gamejolt.com](mailto:contact@gamejolt.com) or by postal mail at:
+We may change this privacy notice from time to time. When we do, we will inform you via email to the
+email address you have provided us with through your account, or by sending a message to your
+account on the Service.
 
-Lucent Web Creative, LLC <br>
-ATTN: Privacy Policy <br>
-50 N. Linden Rd. #563 <br>
-Hershey, PA 17033 <br>
-747-999-5658 <br>
+### How to contact us
+
+Please contact us if you have any questions about this privacy notice or the information we hold
+about you.
+
+If you wish to contact us, please send an email to
+[contact@gamejolt.com](mailto:contact@gamejolt.com).
