@@ -1,6 +1,6 @@
 # Game Jolt Privacy Policy
 
-_This privacy policy is effective as of May 25, 2018_
+_This privacy policy was last updated on January 1, 2020_
 
 We ask that you read this privacy notice carefully, as it contains important information on who we
 are, how and why we collect, store, use, and share personal information, your rights in relation to
@@ -220,7 +220,7 @@ comprehensive or protective as the laws of the country where you live.
 
 If you would like further information, please contact us (see “How to contact us” below).
 
-### Your Rights
+### EU Residents - Your Rights
 
 Under the laws of some jurisdictions, including the General Data Protection Regulation in the EEA,
 you have a number of important rights with regard to your Personal Information.
@@ -252,6 +252,40 @@ that you are the owner of that data.
 
 If you would like to unsubscribe from any email communication from us, you can also click on the
 unsubscribe button at the bottom of the email. It may take a few days for this to take effect.
+
+### California Residents - Your Rights
+
+If you are a California resident, beginning on January 1, 2020, the California Consumer Privacy Act (CCPA) gives you the following rights: 
+
+**Right to Know:** You can ask us what personal data we hold about you and request a copy of the information. This information includes:
+
+* The categories of personal information we have collected about you.
+* The categories of sources from which we collect the personal information.
+* The business or commercial purpose for collecting your personal information.
+* The categories of third parties with whom we share that information.
+* The specific pieces of personal information we have collected about you.
+
+**Right to Delete:** You can request that your personal information be erased. However, there are some exceptions to this right, in situations where we:
+
+* Need to complete the transaction for which the personal information was collected, provide a good or service that you requested, or that is reasonably anticipated within our ongoing business relationship with the consumer, or to otherwise perform a contract between us.
+* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity.
+* Debug to identify and repair errors that impair existing intended functionality.
+* Exercise free speech, ensure the right of another consumer to exercise their right of free speech, or exercise another right provided for by law.
+* Need to comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code.
+* Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the businesses’ deletion of the information is likely to render impossible or seriously impair the achievement of such research, if the consumer has provided informed consent.
+* Enable solely internal uses that are reasonably aligned with the expectations of the consumer based on the consumer’s relationship with us.
+* Need to comply with a legal obligation.
+* Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+
+**Right to Opt Out:** Game Jolt does not sell any of your personal information for any purposes.
+
+The CCPA allows California residents to “opt out” of the sale of your personal information, and if you are under the age of 16, it gives you the right to “opt in” to any sale of your personal data. You can reach the opt out page by clicking here: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Other Rights:** In addition to the rights above, you also have the right to request certain information about our disclosure of personal information to third parties for their own direct marketing purposes during the calendar year preceding your request. This request is free and may be made only once a year.
+
+You also have the right not to be discriminated against for exercising any of the rights of California residents listed in this section.
+
+If you would like to exercise any of the rights listed above, please contact us at the addresses below in the section entitled “How to contact us” or email us at [contact@gamejolt.com](mailto:contact@gamejolt.com).
 
 ### Keeping your Personal Information secure
 
