@@ -1,6 +1,6 @@
 # Game Jolt Privacy Policy
 
-_This privacy policy was last updated on January 1, 2020_
+_This privacy policy was last updated on May 10, 2021_
 
 We ask that you read this privacy notice carefully, as it contains important information on who we
 are, how and why we collect, store, use, and share personal information, your rights in relation to
@@ -9,7 +9,7 @@ a complaint.
 
 ### Who we are
 
-Lucent Web Creative, LLC (dba Game Jolt) (“Game Jolt,” “We,” or “Us”) collects, uses and is
+Game Jolt Inc. (“Game Jolt,” “We,” or “Us”) collects, uses and is
 responsible for certain personal information about you, as part of the Game Jolt website, software
 application, and embedded widgets found on other sites (collectively, the “Service”).
 
@@ -38,6 +38,7 @@ following personal information when you provide it to us:
 * Your driver’s license or other government-issued identification information, and certain other
 	information may be collected if we need to verify your identity for legal purposes (your “Identity
 	Information”).
+* Your display name, full name, profile images or photographs, biographical information, location, website links, social media information, and any other information and materials which accompany your entry submissions, during your entry into a contest, sweepstakes, or Game Jam hosted on the Service (your “Contest Information”).
 
 **Information we collect from third parties:** We may collect personal information from our
 affiliates and third parties. Here are a few examples:
@@ -74,6 +75,8 @@ affiliates and third parties. Here are a few examples:
 * Your Identity Information is used to verify your identity for the purposes of selling products on
 	the Service, signing up as an affiliate, withdrawing funds earned from sales and ad revenue, and
 	to comply with other legal obligations as necessary.
+* Your Contest Information is used to operate contests, sweepstakes, and Game Jams on the Service, to communicate with you about contest-related issues (including receiving and responding to communications that you send us through the Service), and to send you contest-related communications about prizes, rules, and other messages. 
+  
 
 **Who we share your Personal Information with:** We share your Personal Information with certain
 third parties as part of our operation of the Service. This data sharing enables us to provide you
@@ -119,6 +122,8 @@ The Service also uses PayPal for payment processing and bank transfers. You can
 Service, that employ cookies to collect certain information concerning your use of the Service. If
 you wish to opt out of Google Analytics,
 [please click here](https://tools.google.com/dlpage/gaoptout).
+
+**Contest Partners:** In order to operate contests, sweepstakes, and Game Jams on the Service in conjunction with third-party partners, we need to share your Contest Information with our partners. The event’s Official Rules will list any partners we are working with on that event and sharing the Contest Information with.
 
 **Other Sharing:**
 
