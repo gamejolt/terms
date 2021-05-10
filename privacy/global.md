@@ -22,61 +22,60 @@ controller of that personal information for the purposes of those laws.
 **Information collected by us:** In the course of providing you with the Service, we collect the
 following personal information when you provide it to us:
 
-* Your username, email address, and password during the creation of your account on the Service or
-	in communicating with us on or off the Service (your “Account Information”).
-* Your billing address, PayPal account information, and credit card information, during the setup of
-	purchasing methods on the Service (your “Billing Information”).
-* Your physical address, phone number, birth date, business name and information (including names of
-	owners and management), IRS tax withholding form information, PayPal and bank account information,
-	identification card number, and tax ID/social security number, during the setup of withdrawal
-	methods on the Service (your “Withdrawal Information”).
-* Your display name, profile images or photographs, biographical information, location, gender,
-	website links, and social media information during the setup of your public profile on the Service
-	(your “Profile Information”).
-* Your IP address, browser type, and information about your activities on the Service are collected
-	automatically while you use the Service (your “Automatic Information”).
-* Your driver’s license or other government-issued identification information, and certain other
-	information may be collected if we need to verify your identity for legal purposes (your “Identity
-	Information”).
-* Your display name, full name, profile images or photographs, biographical information, location, website links, social media information, and any other information and materials which accompany your entry submissions, during your entry into a contest, sweepstakes, or Game Jam hosted on the Service (your “Contest Information”).
+-   Your username, email address, and password during the creation of your account on the Service or
+    in communicating with us on or off the Service (your “Account Information”).
+-   Your billing address, PayPal account information, and credit card information, during the setup of
+    purchasing methods on the Service (your “Billing Information”).
+-   Your physical address, phone number, birth date, business name and information (including names of
+    owners and management), IRS tax withholding form information, PayPal and bank account information,
+    identification card number, and tax ID/social security number, during the setup of withdrawal
+    methods on the Service (your “Withdrawal Information”).
+-   Your display name, profile images or photographs, biographical information, location, gender,
+    website links, and social media information during the setup of your public profile on the Service
+    (your “Profile Information”).
+-   Your IP address, browser type, and information about your activities on the Service are collected
+    automatically while you use the Service (your “Automatic Information”).
+-   Your driver’s license or other government-issued identification information, and certain other
+    information may be collected if we need to verify your identity for legal purposes (your “Identity
+    Information”).
+-   Your display name, full name, profile images or photographs, biographical information, location, website links, social media information, and any other information and materials which accompany your entry submissions, during your entry into a contest, sweepstakes, or Game Jam hosted on the Service (your “Contest Information”).
 
 **Information we collect from third parties:** We may collect personal information from our
 affiliates and third parties. Here are a few examples:
 
-* If you link a social media account to Game Jolt, or sign up with one, we’ll receive information
-	from that social media profile, including Profile Information defined above and information about
-	your friends and contacts that you share with us.
-* Advertisers may let us know you installed a new app or game or made a purchase, so we can
-	determine whether we showed you an ad for it.
-* If you interact with one of our advertisers, they may share information with us to help target or
-	measure the performance of ads.
+-   If you link a social media account to Game Jolt, or sign up with one, we’ll receive information
+    from that social media profile, including Profile Information defined above and information about
+    your friends and contacts that you share with us.
+-   Advertisers may let us know you installed a new app or game or made a purchase, so we can
+    determine whether we showed you an ad for it.
+-   If you interact with one of our advertisers, they may share information with us to help target or
+    measure the performance of ads.
 
 **How we use your Personal Information:** We use your personal information as follows:
 
-* Your Account Information is used to create and maintain your account on the Service, to
-	communicate with you about Service-related issues (including receiving and responding to
-	communications that you send us through the Service), and to send you Service-related
-	communications about new products and services.
-* Your Billing Information is used to allow you to purchase products on the Service.
-* Your Withdrawal Information is used to allow you to withdraw money earned from ad revenue, by
-	selling products on the Service, or through the use of Partner affiliate links, if you’re a
-	developer or an affiliate partner.
-* Billing Information and Withdrawal Information is also used for VAT and other tax compliance, and
-	to prevent fraud on the Service.
-* Your Profile Information is used to allow you to customize your Game Jolt profile, which is
-	visible to other users of the Service when you publish games on the Service, comment, rate games,
-	post blogs and articles, and participate in other communications and activities through the
-	Service. Be aware that your profile and your communications and activities on the Service are
-	publicly viewable once posted.
-* Your Automatic Information is gathered and pooled with other users’ information, and used for the
-	purposes of improving the Service, such as tracking the total number of visitors to the Service,
-	their aggregate activities on the Service, the number of messages, comments, and other
-	communications users send, and tracking the sites that refer visitors to Game Jolt.
-* Your Identity Information is used to verify your identity for the purposes of selling products on
-	the Service, signing up as an affiliate, withdrawing funds earned from sales and ad revenue, and
-	to comply with other legal obligations as necessary.
-* Your Contest Information is used to operate contests, sweepstakes, and Game Jams on the Service, to communicate with you about contest-related issues (including receiving and responding to communications that you send us through the Service), and to send you contest-related communications about prizes, rules, and other messages. 
-  
+-   Your Account Information is used to create and maintain your account on the Service, to
+    communicate with you about Service-related issues (including receiving and responding to
+    communications that you send us through the Service), and to send you Service-related
+    communications about new products and services.
+-   Your Billing Information is used to allow you to purchase products on the Service.
+-   Your Withdrawal Information is used to allow you to withdraw money earned from ad revenue, by
+    selling products on the Service, or through the use of Partner affiliate links, if you’re a
+    developer or an affiliate partner.
+-   Billing Information and Withdrawal Information is also used for VAT and other tax compliance, and
+    to prevent fraud on the Service.
+-   Your Profile Information is used to allow you to customize your Game Jolt profile, which is
+    visible to other users of the Service when you publish games on the Service, comment, rate games,
+    post blogs and articles, and participate in other communications and activities through the
+    Service. Be aware that your profile and your communications and activities on the Service are
+    publicly viewable once posted.
+-   Your Automatic Information is gathered and pooled with other users’ information, and used for the
+    purposes of improving the Service, such as tracking the total number of visitors to the Service,
+    their aggregate activities on the Service, the number of messages, comments, and other
+    communications users send, and tracking the sites that refer visitors to Game Jolt.
+-   Your Identity Information is used to verify your identity for the purposes of selling products on
+    the Service, signing up as an affiliate, withdrawing funds earned from sales and ad revenue, and
+    to comply with other legal obligations as necessary.
+-   Your Contest Information is used to operate contests, sweepstakes, and Game Jams on the Service, to communicate with you about contest-related issues (including receiving and responding to communications that you send us through the Service), and to send you contest-related communications about prizes, rules, and other messages.
 
 **Who we share your Personal Information with:** We share your Personal Information with certain
 third parties as part of our operation of the Service. This data sharing enables us to provide you
@@ -153,31 +152,31 @@ that we notify you of the lawful basis for collecting your Personal Information.
 To the extent that such laws apply, we rely on the following as the lawful basis on which we collect
 and use your personal information:
 
-* **Consent:** At times we may collect, process, store, transfer or disclose your personal data on
-	the basis of your implied or explicit consent.
-* **To fulfill our contractual obligations:** In order to fulfill our contractual obligations to
-	you, we must collect, process, and store your personal data and information. We must handle your
-	personal data in this manner to create your account on the Service, to process purchases on the
-	Service, verify your identity for fraud and tax compliance reasons, and to allow withdrawals of
-	funds in your account to your connected withdrawal method specified in your account.
+-   **Consent:** At times we may collect, process, store, transfer or disclose your personal data on
+    the basis of your implied or explicit consent.
+-   **To fulfill our contractual obligations:** In order to fulfill our contractual obligations to
+    you, we must collect, process, and store your personal data and information. We must handle your
+    personal data in this manner to create your account on the Service, to process purchases on the
+    Service, verify your identity for fraud and tax compliance reasons, and to allow withdrawals of
+    funds in your account to your connected withdrawal method specified in your account.
 
 Additionally, we may at times have to transfer or disclose your personal data to third parties, in
 order to fulfill other contractual obligations to you. For example, we may have to transfer certain
 information concerning your account and billing information to our payment processors for any
 purchases you make.
 
-* **Furtherance of legitimate interests:** We may collect, process, store, transfer or disclose your
-	personal data in furtherance of those legitimate interests of ours which are not overridden by
-	your interests or fundamental rights and freedoms as set forth in the applicable laws. These
-	legitimate interests include, but are not limited to, (i) providing you with the Service, (ii)
-	protecting our users, staff, and property from fraud and other harm, (iii) collecting information
-	on how you use the Service in order to optimize the design and functionality of the Service, (iv)
-	display personalized advertisements, and (v) communicating with you via e-mail for communications
-	you have explicitly opted into (e.g., notifications about new products and services) or for
-	communications regarding your account on the Service.
+-   **Furtherance of legitimate interests:** We may collect, process, store, transfer or disclose your
+    personal data in furtherance of those legitimate interests of ours which are not overridden by
+    your interests or fundamental rights and freedoms as set forth in the applicable laws. These
+    legitimate interests include, but are not limited to, (i) providing you with the Service, (ii)
+    protecting our users, staff, and property from fraud and other harm, (iii) collecting information
+    on how you use the Service in order to optimize the design and functionality of the Service, (iv)
+    display personalized advertisements, and (v) communicating with you via e-mail for communications
+    you have explicitly opted into (e.g., notifications about new products and services) or for
+    communications regarding your account on the Service.
 
-* **Legal compliance:** We may collect, process, store, transfer or disclose your personal data to
-	comply with our legal obligations.
+-   **Legal compliance:** We may collect, process, store, transfer or disclose your personal data to
+    comply with our legal obligations.
 
 **Cookies:** When you use the Service, a number of cookies are used by us and by third parties to
 allow the Service to function, to collect useful information about visitors, and to help to make
@@ -230,20 +229,20 @@ If you would like further information, please contact us (see “How to contact 
 Under the laws of some jurisdictions, including the General Data Protection Regulation in the EEA,
 you have a number of important rights with regard to your Personal Information.
 
-* By law, you can ask us what information we hold about you, and you can ask us to correct it if it
-	is inaccurate. If we have asked for your consent to process your personal data, you may withdraw
-	that consent at any time.
-* If we are processing your personal data for reasons of consent or to fulfill a contract, you can
-	ask us to give you a copy of the information in a machine-readable format so that you can transfer
-	it to another provider.
-* If we are processing your personal data for reasons of consent or legitimate interest, you can
-	request that your data be erased. This process may take as much as 30 days for full erasure of
-	your data, and in some cases, we may be required to retain some of your data for the purposes of
-	stopping fraud or other legal and contractual requirements.
-* You have the right to ask us to stop using your information for a period of time, if you believe
-	we are not doing so lawfully.
-* Finally, in some circumstances, you can ask us not to reach decisions affecting you using
-	automated processing or profiling.
+-   By law, you can ask us what information we hold about you, and you can ask us to correct it if it
+    is inaccurate. If we have asked for your consent to process your personal data, you may withdraw
+    that consent at any time.
+-   If we are processing your personal data for reasons of consent or to fulfill a contract, you can
+    ask us to give you a copy of the information in a machine-readable format so that you can transfer
+    it to another provider.
+-   If we are processing your personal data for reasons of consent or legitimate interest, you can
+    request that your data be erased. This process may take as much as 30 days for full erasure of
+    your data, and in some cases, we may be required to retain some of your data for the purposes of
+    stopping fraud or other legal and contractual requirements.
+-   You have the right to ask us to stop using your information for a period of time, if you believe
+    we are not doing so lawfully.
+-   Finally, in some circumstances, you can ask us not to reach decisions affecting you using
+    automated processing or profiling.
 
 For further information on each of those rights, including the circumstances in which they apply,
 see
@@ -260,27 +259,27 @@ unsubscribe button at the bottom of the email. It may take a few days for this t
 
 ### California Residents - Your Rights
 
-If you are a California resident, beginning on January 1, 2020, the California Consumer Privacy Act (CCPA) gives you the following rights: 
+If you are a California resident, beginning on January 1, 2020, the California Consumer Privacy Act (CCPA) gives you the following rights:
 
 **Right to Know:** You can ask us what personal data we hold about you and request a copy of the information. This information includes:
 
-* The categories of personal information we have collected about you.
-* The categories of sources from which we collect the personal information.
-* The business or commercial purpose for collecting your personal information.
-* The categories of third parties with whom we share that information.
-* The specific pieces of personal information we have collected about you.
+-   The categories of personal information we have collected about you.
+-   The categories of sources from which we collect the personal information.
+-   The business or commercial purpose for collecting your personal information.
+-   The categories of third parties with whom we share that information.
+-   The specific pieces of personal information we have collected about you.
 
 **Right to Delete:** You can request that your personal information be erased. However, there are some exceptions to this right, in situations where we:
 
-* Need to complete the transaction for which the personal information was collected, provide a good or service that you requested, or that is reasonably anticipated within our ongoing business relationship with the consumer, or to otherwise perform a contract between us.
-* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity.
-* Debug to identify and repair errors that impair existing intended functionality.
-* Exercise free speech, ensure the right of another consumer to exercise their right of free speech, or exercise another right provided for by law.
-* Need to comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code.
-* Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the businesses’ deletion of the information is likely to render impossible or seriously impair the achievement of such research, if the consumer has provided informed consent.
-* Enable solely internal uses that are reasonably aligned with the expectations of the consumer based on the consumer’s relationship with us.
-* Need to comply with a legal obligation.
-* Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+-   Need to complete the transaction for which the personal information was collected, provide a good or service that you requested, or that is reasonably anticipated within our ongoing business relationship with the consumer, or to otherwise perform a contract between us.
+-   Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity.
+-   Debug to identify and repair errors that impair existing intended functionality.
+-   Exercise free speech, ensure the right of another consumer to exercise their right of free speech, or exercise another right provided for by law.
+-   Need to comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code.
+-   Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the businesses’ deletion of the information is likely to render impossible or seriously impair the achievement of such research, if the consumer has provided informed consent.
+-   Enable solely internal uses that are reasonably aligned with the expectations of the consumer based on the consumer’s relationship with us.
+-   Need to comply with a legal obligation.
+-   Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
 
 **Right to Opt Out:** Game Jolt does not sell any of your personal information for any purposes.
 
