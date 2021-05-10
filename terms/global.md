@@ -1,6 +1,6 @@
 # Game Jolt Terms of Use
 
-_Last revised: June 8, 2016_
+_Last revised: May 10, 2020_
 
 **For questions or concerns regarding the use of personal information you submit to us, please visit our [Privacy Policy](http://gamejolt.com/privacy) or contact us at [contact@gamejolt.com](mailto:contact@gamejolt.com).**
 
@@ -10,7 +10,7 @@ _Last revised: June 8, 2016_
 
 ### Acceptance of Terms of Use and Amendments
 
-Lucent Web Creative, LLC (also known as Game Jolt) ("***Game Jolt***," "***we***" or "***us***") owns, operates and maintains the gamejolt.com website, including, without limitation, all sub-pages (the "**Site**"), the Game Jolt desktop client software, mobile application, game API, and widgets (the "*Software*") (collectively, the "*Service*"). Each time you access, view or use the Service, you agree to be bound by these Terms of Use (these "***Terms***"), which may be amended from time to time. We will make commercially reasonable efforts to provide each user of the Service with notice of any amendment to these Terms, and we also will provide notice on the Service of any amendment to these Terms. Any amendment only will apply to your use of the Service on and after the date of the amendment. In addition, if you use or purchase any product or service through the Service, you also will be subject to any terms and conditions applicable to that product and service. If you do not agree with these Terms, you immediately should stop using the Service.
+Game Jolt Inc. ("***Game Jolt***," "***we***" or "***us***") owns, operates and maintains the gamejolt.com website, including, without limitation, all sub-pages (the "**Site**"), the Game Jolt desktop client software, mobile application, game API, and widgets (the "*Software*") (collectively, the "*Service*"). Each time you access, view or use the Service, you agree to be bound by these Terms of Use (these "***Terms***"), which may be amended from time to time. We will make commercially reasonable efforts to provide each user of the Service with notice of any amendment to these Terms, and we also will provide notice on the Service of any amendment to these Terms. Any amendment only will apply to your use of the Service on and after the date of the amendment. In addition, if you use or purchase any product or service through the Service, you also will be subject to any terms and conditions applicable to that product and service. If you do not agree with these Terms, you immediately should stop using the Service.
 
 We reserve the right, at any time and from time to time, to modify or discontinue the Service or terminate your access to the Service with or without notice, charge fees in connection with the use of the Service, modify or waive any fees charged in connection with the Service, and offer opportunities to some or all users of the Service. You agree that we will not be liable to you for any modification or discontinuation of the Service or termination of your access to the Service, in whole or in part, or of any product or service, content or feature offered through the Service. Your continued use of the Service after such changes will indicate your acceptance of the changes.
 
@@ -126,7 +126,7 @@ Alternatively, you may submit notice, pursuant to the Digital Millennium Copyrig
 
 If you believe in good faith that a notice of copyright infringement has been wrongly filed against you, the DMCA permits you to send Game Jolt a counter-notice. Notices and counter-notices must meet the statutory requirements imposed by 17 USC § 512. Notices and counter-notices with respect to the Service should be sent to Game Jolt's Copyright Agent. The Game Jolt copyright agent should be contacted only if you believe that your work has been used or copied in a way that constitutes copyright infringement and that infringement is occurring through use of the Service. Please note that these notifications and counter-notifications are legal notices. Game Jolt may provide copies of such notices to the participants in the dispute or third parties, at our discretion and as required by law. Our Privacy Policy does not protect information provided in these notices and counter-notices.
 
-Our Copyright Agent can be reached by mail at: Lucent Web Creative, LLC, ATTN: IP Agent, 50 N. Linden Rd. #563, Hershey, PA 17033; or by email at [ipagent@gamejolt.com](mailto:ipagent@gamejolt.com).
+Our Copyright Agent can be reached by mail at: Game Jolt Inc., ATTN: IP Agent, 50 N. Linden Rd. #563, Hershey, PA 17033; or by email at [ipagent@gamejolt.com](mailto:ipagent@gamejolt.com).
 
 ### Indemnification
 
