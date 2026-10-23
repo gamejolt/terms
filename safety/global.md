@@ -35,7 +35,7 @@ Once we confirm a violation, Game Jolt will:
 
 **Legal Compliance**
 
-Game Jolt complies with all applicable child safety laws and regulations in every region here we operate. We will cooperate fully with law enforcement and child protection agencies, and we are legally obligated to report any detected CSAM to NCMEC and relevant authorities.
+Game Jolt complies with all applicable child safety laws and regulations in every region where we operate. We will cooperate fully with law enforcement and child protection agencies, and we are legally obligated to report any detected CSAM to NCMEC and relevant authorities.
 
 **Point of Contact**
 
